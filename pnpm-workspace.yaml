@@ -1,2 +1,5 @@
+allowBuild: sharp
+allowBuilds:
+  sharp: true
 onlyBuiltDependencies:
   - sharp
